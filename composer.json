@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-slovenian",
+    "name": "juicen2/flarum-ext-slovenian",
     "type": "flarum-extension",
     "description": "Slovenian language pack.",
     "keywords": ["locale"],
@@ -12,7 +12,7 @@
             "dev-master": "0.1.x-dev"
         },
         "flarum-extension": {
-            "title": "English",
+            "title": "Slovenian",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
