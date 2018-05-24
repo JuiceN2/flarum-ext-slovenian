@@ -1,7 +1,7 @@
 {
-    "name": "flarum/flarum-ext-english",
+    "name": "flarum/flarum-ext-slovenian",
     "type": "flarum-extension",
-    "description": "English language pack.",
+    "description": "Slovenian language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -21,8 +21,8 @@
             }
         },
         "flarum-locale": {
-            "code": "en",
-            "title": "English"
+            "code": "si",
+            "title": "Slovenian"
         }
     }
 }
