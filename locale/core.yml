@@ -528,40 +528,40 @@ core:
     change_password: Spremeni geslo
     color: Barva                                 # Referenced by flarum-tags.yml
     confirm_password: Potrdi geslo
-    confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
-    custom_footer_text: Add HTML to be displayed at the very bottom of the page.
-    custom_footer_title: Edit Custom Footer
-    custom_header_text: "Add HTML to be displayed at the very top of the page, above Flarum's own header."
-    custom_header_title: Edit Custom Header
-    delete: Delete
-    delete_forever: Delete Forever
-    discussions: Discussions                     # Referenced by flarum-statistics.yml
-    edit: Edit
-    email: Email
-    load_more: Load More
-    log_in: Log In
-    log_out: Log Out
-    mark_all_as_read: Mark All as Read
-    next_page: Next Page
+    confirmation_email_sent: "Na {email} smo poslali potditveno povezavo. Če ga kmalu ne vidite, preglejte nezaželjeno pošto."
+    custom_footer_text: Dodajte HTML, ki bo viden na dnu spletne strani.
+    custom_footer_title: Uredi nogo po meri
+    custom_header_text: "Dodajte HTML, ki bo viden na vrhu strani"
+    custom_header_title: Uredi glavo po meri
+    delete: Odstrani
+    delete_forever: Odstrani za vedno
+    discussions: Objave                     # Referenced by flarum-statistics.yml
+    edit: Uredi
+    email: E-mail
+    load_more: Prikaži več
+    log_in: Prijava
+    log_out: Odjava
+    mark_all_as_read: Označi vse kot prebrano
+    next_page: Naslednja stran
     notifications: Obvestila
     okay: OK                                     # Referenced by flarum-tags.yml
-    password: Password
-    posts: Posts                                 # Referenced by flarum-statistics.yml
-    remove: Remove
-    previous_page: Previous Page
-    rename: Rename
-    reply: Reply                                 # Referenced by flarum-mentions.yml
-    reset_your_password: Reset Your Password
-    restore: Restore
-    save_changes: Save Changes                   # Referenced by flarum-suspend.yml, flarum-tags.yml
-    settings: Settings
-    sign_up: Sign Up
-    some_others: "{count} other|{count} others"  # Referenced by flarum-likes.yml, flarum-mentions.yml
-    start_a_discussion: Start a Discussion
-    username: Username
-    users: Users                                 # Referenced by flarum-statistics.yml
-    write_a_reply: Write a Reply...
-    you: You                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    password: Geslo
+    posts: Odgovori                                 # Referenced by flarum-statistics.yml
+    remove: Odstrani
+    previous_page: Prejšnja stran
+    rename: Preimenuj
+    reply: Odgovori                                 # Referenced by flarum-mentions.yml
+    reset_your_password: Zamenjava gesla
+    restore: Obnovi
+    save_changes: Shrani spremembe                   # Referenced by flarum-suspend.yml, flarum-tags.yml
+    settings: Nastavitve
+    sign_up: Registracija
+    some_others: "{count} drugih|{count} druhig"  # Referenced by flarum-likes.yml, flarum-mentions.yml
+    start_a_discussion: Dodaj objavo
+    username: Uporabniško ime
+    users: Uporabniki                                 # Referenced by flarum-statistics.yml
+    write_a_reply: Napiši odgovor...
+    you: Vi                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
   # GROUP NAMES - These keys are translated at the back end.
