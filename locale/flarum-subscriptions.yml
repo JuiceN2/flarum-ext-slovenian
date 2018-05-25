@@ -38,8 +38,8 @@ flarum-subscriptions:
       following_text: Bodi obveščen o vseh odgovorih.
       ignoring_button: => flarum-subscriptions.ref.ignoring
       ignoring_text: Nikoli ne bodi obveščen, skrij iz seznama objav.
-      not_following_button: Ne slediš
-      not_following_text: "Bodi obveščen le ko si @mentioned."
+      not_following_button: Prenehaj slediti
+      not_following_text: "Bodi obveščen le ko si @omenjen."
       notify_alert_tooltip: Pošlji obvestilo o novih objavah
       notify_email_tooltip: Pošlji obvestilo o novih odgovorih
 
@@ -50,5 +50,5 @@ flarum-subscriptions:
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
     follow: Sledi
-    following: Slediš
-    ignoring: Blokirač
+    following: Sledi
+    ignoring: Ignoriraj
