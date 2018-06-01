@@ -228,7 +228,7 @@ core:
       delete_button: => core.ref.delete
       delete_confirmation: "Ste prepričani, da želite izbrisati objavo?"
       delete_forever_button: => core.ref.delete_forever
-      log_in_to_reply_button: Prijavite se za odgovor.
+      log_in_to_reply_button: Odgovori
       rename_button: => core.ref.rename
       reply_button: => core.ref.reply
       restore_button: => core.ref.restore
@@ -561,7 +561,7 @@ core:
     username: Uporabniško ime
     users: Uporabniki                                 # Referenced by flarum-statistics.yml
     write_a_reply: Napiši odgovor...
-    you: Vi                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    you: Vam                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
   # GROUP NAMES - These keys are translated at the back end.
